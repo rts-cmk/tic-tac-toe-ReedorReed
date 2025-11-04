@@ -1,3 +1,4 @@
+import React from 'react';
 import Strike from '../Strike/Strike';
 import Tile from '../Tile/Tile';
 import './Board.sass';

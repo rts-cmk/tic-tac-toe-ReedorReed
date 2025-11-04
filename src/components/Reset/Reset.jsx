@@ -1,3 +1,4 @@
+import React from 'react';
 import GameState from '../GameState/GameState';
 import './Reset.sass';
 

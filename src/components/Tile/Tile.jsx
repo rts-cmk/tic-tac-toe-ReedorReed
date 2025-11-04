@@ -1,3 +1,4 @@
+import React from 'react';
 import './Tile.sass';
 
 export default function Tile({ className, value, onClick, playerTurn }) {

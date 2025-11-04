@@ -1,3 +1,4 @@
+import React from 'react';
 import './GameOver.sass';
 import GameState from '../GameState/GameState';
 

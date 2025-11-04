@@ -1,3 +1,4 @@
+import React from 'react';
 import './Strike.sass';
 
 export default function Strike({ strikeClass }) {

@@ -1,3 +1,4 @@
+import React from 'react';
 import TicTacToe from './components/TicTacToe/TicTacToe';
 import './Styles/main.sass';
 
