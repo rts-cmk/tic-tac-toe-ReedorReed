@@ -1,0 +1,14 @@
+@use '../../Styles/_variables' as var
+
+.board
+    display: grid
+    grid-template-columns: 100px 100px 100px
+    grid-template-rows: 100px 100px 100px
+    cursor: pointer
+    position: relative
+
+    &__right-border
+        border-right: 0.2em solid var.$color-border
+    
+    &__bottom-border
+        border-bottom: 0.2em solid var.$color-border

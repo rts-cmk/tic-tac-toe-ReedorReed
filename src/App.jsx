@@ -1,4 +1,5 @@
 import TicTacToe from './components/TicTacToe/TicTacToe';
+import './Styles/main.sass';
 
 function App() {
 	return (
